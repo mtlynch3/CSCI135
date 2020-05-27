@@ -1,6 +1,8 @@
 # CSCI135
 CSCI 135 - Summer 2020
+
 Mon-Thurs 11:40 am - 12:50 pm
+
 Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann 
 
 ## Week 1
