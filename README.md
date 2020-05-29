@@ -5,6 +5,8 @@ Mon-Thurs 11:40 am - 12:50 pm
 
 Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann 
 
+**Syllabus**
+
 ## Week 1
 
 **Class 1**
@@ -25,3 +27,9 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 **HW2**
 - Create a C++ program that asks the user for the number of gallons, the fuel efficiency in mpg, and the price of gas per gallon. Use this information to calculate how far the car can go (distance) and how much it costs to go 100 miles. Print these values to the screen. Due 6/2.
+
+## Week 2
+
+## Week 3
+
+## Week 4
