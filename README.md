@@ -30,6 +30,36 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 ## Week 2
 
+**Class 4**
+- [2.4](https://maryash.github.io/135/slides/2.5%20Strings.pdf)
+
+**Class 5**
+- [6.1](https://maryash.github.io/135/slides/6.1%20Arrays.pdf)
+
+**Class 6**
+- [4.1](https://maryash.github.io/135/slides/4.1%20The%20WHILE%20Loop.pdf)
+
+**Class 7**
+- [4.2-3](https://maryash.github.io/135/slides/4.2%20PS%20Hand-Tracing%20_%204.3%20The%20FOR%20Loop.pdf)
+- [4.4-5](https://maryash.github.io/135/slides/4.4%20The%20DO%20Loop%20_%204.5%20Processing%20Input.pdf)
+
 ## Week 3
 
+**Class 8**
+- [4.6-8](https://maryash.github.io/135/slides/4.6%20PS%20Storyboards%20_%204.7%20Common%20Loop%20Algorithms%20_%204.8%20Nested%20Loops.pdf)
+
+**Class 9**
+
+**Class 10**
+
+**Class 11**
+
 ## Week 4
+
+**Class 12**
+
+**Class 13**
+
+**Class 14**
+
+**Class 15**
