@@ -35,9 +35,23 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 **Class 5**
 - [6.1](https://maryash.github.io/135/slides/6.1%20Arrays.pdf)
+- [Project 1](https://maryash.github.io/135/projects/project_01.html)
 
 **Class 6**
 - [4.1](https://maryash.github.io/135/slides/4.1%20The%20WHILE%20Loop.pdf)
+
+**HW 3**
+- Write a program that takes a word as input and prints out the word with each character separated by a newline. For example, if the input is "hello", the output should be:
+
+h
+
+e
+
+l
+
+l
+
+o
 
 **Class 7**
 - [4.2-3](https://maryash.github.io/135/slides/4.2%20PS%20Hand-Tracing%20_%204.3%20The%20FOR%20Loop.pdf)
