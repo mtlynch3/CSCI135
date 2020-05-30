@@ -36,6 +36,8 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 **Class 5**
 - [6.1](https://maryash.github.io/135/slides/6.1%20Arrays.pdf)
+
+**Project 1**
 - [Project 1](https://maryash.github.io/135/projects/project_01.html)
 
 **Class 6**
@@ -56,6 +58,7 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 - [4.6-8](https://maryash.github.io/135/slides/4.6%20PS%20Storyboards%20_%204.7%20Common%20Loop%20Algorithms%20_%204.8%20Nested%20Loops.pdf)
 - [4.9-10](https://maryash.github.io/135/slides/4.9%20PS%20Solve%20a%20Simpler%20Problem%20First%20_%204.10%20Random%20Numbers%20and%20Simulations.pdf)
 
+
 ## Week 3 (6/8-6/11)
 
 **Class 8**
@@ -72,6 +75,12 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 **HW 4**
 - Write a program that reads in an integer and prints out whether it is negative, zero, or positive.
 
+**HW 5**
+- Increasing/decreasing sequence
+
+**HW 6**
+- Middle string
+
 
 **Class 10**
 - [5.4-6](https://maryash.github.io/135/slides/5.4%20Return%20Values%20_%205.5%20Functions%20without%20Return%20Values%20_%205.6%20Reusable%20Functions.pdf)
@@ -86,6 +95,8 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 **Class 12**
 - [8.1](https://maryash.github.io/135/slides/8.1%20Reading%20and%20Writing%20Text%20Files.pdf)
+
+**Project 2**
 - [Project 2] (https://maryash.github.io/135/projects/project_2.html)
 
 **Class 13**
