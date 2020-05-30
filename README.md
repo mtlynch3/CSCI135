@@ -48,11 +48,11 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 **HW 3**
 - Write a program that takes a word as input and prints out the word with each character separated by a newline. For example, if the input is "hello", the output should be:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o
 
 **Class 7**
 - [4.6-8](https://maryash.github.io/135/slides/4.6%20PS%20Storyboards%20_%204.7%20Common%20Loop%20Algorithms%20_%204.8%20Nested%20Loops.pdf)
