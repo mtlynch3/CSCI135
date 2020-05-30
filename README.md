@@ -43,7 +43,11 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 **HW 3**
 - Write a program that takes a word as input and prints out the word with each character separated by a newline. For example, if the input is "hello", the output should be:
 
-&nbsp;&nbsp;&nbsp h<br/>e<br/>l<br/>l<br/>o
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o
 
 **Class 7**
 - [4.2-3](https://maryash.github.io/135/slides/4.2%20PS%20Hand-Tracing%20_%204.3%20The%20FOR%20Loop.pdf)
