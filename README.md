@@ -5,7 +5,22 @@ Mon-Thurs 11:40 am - 12:50 pm
 
 Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann 
 
-**Syllabus**
+## Course Information
+
+**Grading breakdown**
+- 60% exams (2 midterms 15% each; 1 final 30%)
+- 20% projects (2 projects 10% each)
+- 10% code review (2 code reviews 5% each)
+- 5% homeworks
+- 5% lecture activities
+
+**Code review process**
+- Code review 1 is available weeks 3 and 4
+- Code review 2 is available weeks 5 and 6
+- Must choose timeslot 24 hrs beforehand
+- Cannot cancel/reschedule once you choose a timeslot
+- [Schedule code review 1](https://calendly.com/135-code-review/the-first)
+- [Schedule code review 2](https://calendly.com/135-code-review/the-second)
 
 ## Week 1 (5/26-5/28)
 
@@ -20,7 +35,7 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 **Class 3**
 - [2.2](https://maryash.github.io/135/slides/2.2%20Arithmetic.pdf)
-- [2.3-4](https://maryash.github.io/135/slides/2.3%20Input%20and%20Output%20_%202.4%20PS%20First%20Do%20It%20By%20Hand.pdf)
+- [2.3](https://maryash.github.io/135/slides/2.3%20Input%20and%20Output%20_%202.4%20PS%20First%20Do%20It%20By%20Hand.pdf)
 
 **HW1**
 - Create a C++ program that gets 3 names from the user and prints them out to the screen. Due 6/1.
@@ -60,6 +75,7 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 
 ## Week 3 (6/8-6/11)
+**[Schedule code review 1](https://calendly.com/135-code-review/the-first)**
 
 **Class 8**
 - [3.1](https://maryash.github.io/135/slides/3.1%20The%20IF%20Statement.pdf)
@@ -92,12 +108,13 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 
 ## Week 4 (6/15-6/18)
+**[Schedule code review 1](https://calendly.com/135-code-review/the-first)**
 
 **Class 12**
 - [8.1](https://maryash.github.io/135/slides/8.1%20Reading%20and%20Writing%20Text%20Files.pdf)
 
 **Project 2**
-- [Project 2] (https://maryash.github.io/135/projects/project_2.html)
+- [Project 2](https://maryash.github.io/135/projects/project_2.html)
 
 **Class 13**
 - [5.9](https://maryash.github.io/135/slides/5.9%20Reference%20Parameters.pdf)
@@ -114,6 +131,8 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 ## Week 5 (6/22-6/25)
 
+**[Schedule code review 2](https://calendly.com/135-code-review/the-second)**
+
 **Class 16**
 - [6.6](https://maryash.github.io/135/slides/6.6%202D%20Arrays.pdf)
 
@@ -128,6 +147,8 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 
 ## Week 6 (6/29-7/2)
+
+**[Schedule code review 2](https://calendly.com/135-code-review/the-second)**
 
 **Class 20**
 - [7.4](https://maryash.github.io/135/slides/7.4%20Dynamic%20Memory%20Allocation.pdf)
