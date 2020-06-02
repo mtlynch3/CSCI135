@@ -1,6 +1,14 @@
 # CSCI135
 CSCI 135 - Summer 2020
 
+<br/>
+
+Instructor: Melissa Lynch
+
+Email: lynch.melissat@gmail.com
+
+<br/>
+
 Mon-Thurs 11:40 am - 12:50 pm
 
 Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann 
@@ -14,13 +22,30 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 - 5% homeworks
 - 5% lecture activities
 
-**Code review process**
+## Code review process
+
+TA: Yash Mahtani
+
+Email: ?
+
+<br/>
+
+**REQUIRED**
+Create an account with repl.it: https://repl.it/signup
+
+**Scheduling process**
 - Code review 1 is available weeks 3 and 4
 - Code review 2 is available weeks 5 and 6
 - Must choose timeslot 24 hrs beforehand
 - Cannot cancel/reschedule once you choose a timeslot
 - [Schedule code review 1](https://calendly.com/135-code-review/the-first)
 - [Schedule code review 2](https://calendly.com/135-code-review/the-second)
+
+**Code review**
+- At your scheduled time, you should be in the BB Collab session titled "CODE REVIEW" 
+- Once you're in the session, Yash will bring you to a breakout room and send you the link to the repl
+- At the top of the file will be the prompt for the problem you need to solve
+- You will have 15 minutes to come up with your solution 
 
 ## Week 1 (5/26-5/28)
 
