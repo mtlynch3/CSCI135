@@ -92,10 +92,36 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 - Write a program that reads in an integer and prints out whether it is negative, zero, or positive.
 
 **HW 5**
-- Increasing/decreasing sequence
+- Write a program that reads in three numbers and prints "increasing" if they are in increasing order, "decreasing" if they are in decreasing order, and "neither" otherwise. Here, "increasing" means strictly increasing, with each value larger than its predecessor. 
+
+Example:
+
+input: 1 2 3
+
+output: increasing
+
+<br/>
+
+input: 3 2 1
+
+output: decreasing
+
+<br/>
+
+input: 3 4 4
+
+output: neither
 
 **HW 6**
-- Middle string
+- Write a function **string middle(string str)** that returns a string containing the middle character in str (if the length of str is odd), or the two middle characters (if the length of str is even).
+
+Example:
+
+str = "hello"
+<br/> function returns "l"
+
+str = "food"
+<br/> function returns "oo"
 
 
 **Class 10**
