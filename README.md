@@ -26,7 +26,7 @@ Textbook (optional): Brief C++/C++ for Everyone, Cay Horstmann
 
 TA: Yash Mahtani
 
-Email: ?
+Email: Yash.mahtani82@myhunter.cuny.edu
 
 <br/>
 
