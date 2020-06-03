@@ -31,7 +31,7 @@ Email: Yash.mahtani82@myhunter.cuny.edu
 <br/>
 
 **REQUIRED**
-Create an account with repl.it: https://repl.it/signup
+Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 
 **Scheduling process**
 - Code review 1 is available weeks 3 and 4
