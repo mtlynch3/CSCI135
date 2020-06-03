@@ -114,10 +114,10 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 - [5.1-3](https://maryash.github.io/135/slides/5.1%20Functions%20as%20Black%20Boxes%20_%205.2%20Implementing%20Functions%20_%205.3%20Parameter%20Passing.pdf)
 
 **HW 4**
-- Write a program that reads in an integer and prints out whether it is negative, zero, or positive.
+- Write a program that reads in an integer and prints out whether it is negative, zero, or positive. Due 6/9.
 
 **HW 5**
-- Write a program that reads in three numbers and prints "increasing" if they are in increasing order, "decreasing" if they are in decreasing order, and "neither" otherwise. Here, "increasing" means strictly increasing, with each value larger than its predecessor. 
+- Write a program that reads in three numbers and prints "increasing" if they are in increasing order, "decreasing" if they are in decreasing order, and "neither" otherwise. Here, "increasing" means strictly increasing, with each value larger than its predecessor. Due 6/12.
 
 Example:
 
@@ -138,7 +138,7 @@ input: 3 4 4
 output: neither
 
 **HW 6**
-- Write a function **string middle(string str)** that returns a string containing the middle character in str (if the length of str is odd), or the two middle characters (if the length of str is even).
+- Write a function **string middle(string str)** that returns a string containing the middle character in str (if the length of str is odd), or the two middle characters (if the length of str is even). Due 6/15.
 
 Example:
 
@@ -156,6 +156,7 @@ str = "food"
 
 **Class 11**
 - **Midterm Exam 1**
+- 6/11 during classtime. Will be uploaded to Gradescope.
 
 
 ## Week 4 (6/15-6/18)
