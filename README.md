@@ -86,6 +86,7 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 - [4.4-5](https://maryash.github.io/135/slides/4.4%20The%20DO%20Loop%20_%204.5%20Processing%20Input.pdf)
 
 **HW 3**
+- Due 6/9
 - Write a program that takes a word as input and prints out the word with each character separated by a newline. For example, if the input is "hello", the output should be:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h<br/>
@@ -114,10 +115,12 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 - [5.1-3](https://maryash.github.io/135/slides/5.1%20Functions%20as%20Black%20Boxes%20_%205.2%20Implementing%20Functions%20_%205.3%20Parameter%20Passing.pdf)
 
 **HW 4**
-- Write a program that reads in an integer and prints out whether it is negative, zero, or positive. Due 6/9.
+- Due 6/12
+- Write a program that reads in an integer and prints out whether it is negative, zero, or positive. 
 
 **HW 5**
-- Write a program that reads in three numbers and prints "increasing" if they are in increasing order, "decreasing" if they are in decreasing order, and "neither" otherwise. Here, "increasing" means strictly increasing, with each value larger than its predecessor. Due 6/12.
+- Due 6/15
+- Write a program that reads in three numbers and prints "increasing" if they are in increasing order, "decreasing" if they are in decreasing order, and "neither" otherwise. Here, "increasing" means strictly increasing, with each value larger than its predecessor. 
 
 Example:
 
@@ -138,7 +141,8 @@ input: 3 4 4
 output: neither
 
 **HW 6**
-- Write a function **string middle(string str)** that returns a string containing the middle character in str (if the length of str is odd), or the two middle characters (if the length of str is even). Due 6/15.
+- Due 6/16
+- Write a function **string middle(string str)** that returns a string containing the middle character in str (if the length of str is odd), or the two middle characters (if the length of str is even). 
 
 Example:
 
