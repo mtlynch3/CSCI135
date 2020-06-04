@@ -102,8 +102,7 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 **Lecture Activity**
 - Due 6/5 11 AM
 - Define an array with the following elements: 1,2,3,4,5. Using a loop, print out the elements of the array, with a newline between each element.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Output:
+- Output:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 <br/>
