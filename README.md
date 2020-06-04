@@ -87,7 +87,7 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 
 **HW 3**
 - Due 6/9
-- Write a program that takes a word as input and prints out the word with each character separated by a newline. For example, if the input is "hello", the output should be:
+- Write a program that asks the user for a word and prints out the word with each character separated by a newline. For example, if the input is "hello", the output should be:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e<br/>
@@ -103,13 +103,13 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 - Due 6/5 11 AM
 - Define an array with the following elements: 1,2,3,4,5. Using a loop, print out the elements of the array, with a newline between each element.
 
-Output:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Output:
 
-1 <br/>
-2 <br/>
-3 <br/>
-4 <br/>
-5 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 
 
 ## Week 3 (6/8-6/11)
 **[Schedule code review 1](https://calendly.com/135-code-review/the-first)**
