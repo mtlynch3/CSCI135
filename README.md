@@ -99,6 +99,17 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 - [4.6-8](https://maryash.github.io/135/slides/4.6%20PS%20Storyboards%20_%204.7%20Common%20Loop%20Algorithms%20_%204.8%20Nested%20Loops.pdf)
 - [4.9-10](https://maryash.github.io/135/slides/4.9%20PS%20Solve%20a%20Simpler%20Problem%20First%20_%204.10%20Random%20Numbers%20and%20Simulations.pdf)
 
+**Lecture Activity**
+- Due 6/5 11 AM
+- Define an array with the following elements: 1,2,3,4,5. Using a loop, print out the elements of the array, with a newline between each element.
+
+Output:
+
+1 <br/>
+2 <br/>
+3 <br/>
+4 <br/>
+5 
 
 ## Week 3 (6/8-6/11)
 **[Schedule code review 1](https://calendly.com/135-code-review/the-first)**
