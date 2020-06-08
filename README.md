@@ -83,7 +83,6 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 **Class 6**
 - [4.1](https://maryash.github.io/135/slides/4.1%20The%20WHILE%20Loop.pdf)
 - [4.2-3](https://maryash.github.io/135/slides/4.2%20PS%20Hand-Tracing%20_%204.3%20The%20FOR%20Loop.pdf)
-- [4.4-5](https://maryash.github.io/135/slides/4.4%20The%20DO%20Loop%20_%204.5%20Processing%20Input.pdf)
 
 **HW 3**
 - Due 6/9
@@ -96,7 +95,7 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o
 
 **Class 7**
-
+- [4.4-5](https://maryash.github.io/135/slides/4.4%20The%20DO%20Loop%20_%204.5%20Processing%20Input.pdf)
 
 **Lecture Activity**
 - Due 6/5 11 AM
