@@ -167,20 +167,21 @@ str = "food"
 **Class 11**
 - **Midterm Exam 1**
 - 6/11 during classtime. Will be uploaded to Gradescope.
+- Topics include everything covered in lecture up to class 10: input/output, arithmetic, strings, arrays, loops
 
 
 ## Week 4 (6/15-6/18)
 **[Schedule code review 1](https://calendly.com/135-code-review/the-first)**
 
 **Class 12**
-- [5.4-6](https://maryash.github.io/135/slides/5.4%20Return%20Values%20_%205.5%20Functions%20without%20Return%20Values%20_%205.6%20Reusable%20Functions.pdf)
-- [5.8](https://maryash.github.io/135/slides/5.8%20Variable%20Scope%20and%20Globals.pdf)
 - [8.1](https://maryash.github.io/135/slides/8.1%20Reading%20and%20Writing%20Text%20Files.pdf)
+- [5.4-6](https://maryash.github.io/135/slides/5.4%20Return%20Values%20_%205.5%20Functions%20without%20Return%20Values%20_%205.6%20Reusable%20Functions.pdf)
 
 **Project 2**
 - [Project 2](https://maryash.github.io/135/projects/project_2.html)
 
 **Class 13**
+- [5.8](https://maryash.github.io/135/slides/5.8%20Variable%20Scope%20and%20Globals.pdf)
 - [5.9](https://maryash.github.io/135/slides/5.9%20Reference%20Parameters.pdf)
 - Demo: Pass by reference vs by value
 
