@@ -116,11 +116,8 @@ Create an account with repl.it: [https://repl.it/signup](https://repl.it/signup)
 - [4.9-10](https://maryash.github.io/135/slides/4.9%20PS%20Solve%20a%20Simpler%20Problem%20First%20_%204.10%20Random%20Numbers%20and%20Simulations.pdf)
 
 **Class 9**
-- [3.1](https://maryash.github.io/135/slides/3.1%20The%20IF%20Statement.pdf)
-- [3.2](https://maryash.github.io/135/slides/3.2%20Comparing%20Numbers%20and%20Strings.pdf)
-- [3.3-4](https://maryash.github.io/135/slides/3.3%20Multiple%20Alternatives%20_%203.4%20Nested%20Branches.pdf)
-- [3.7](https://maryash.github.io/135/slides/3.7%20Boolean%20Variables%20and%20Operators.pdf)
-- [3.8](https://maryash.github.io/135/slides/3.8%20Application_%20Input%20Validation.pdf)
+- Nested for loop demo
+- Exam review
 
 **HW 4**
 - Due 6/12
@@ -162,7 +159,11 @@ str = "food"
 
 
 **Class 10**
-- [5.1-3](https://maryash.github.io/135/slides/5.1%20Functions%20as%20Black%20Boxes%20_%205.2%20Implementing%20Functions%20_%205.3%20Parameter%20Passing.pdf)
+- [3.1](https://maryash.github.io/135/slides/3.1%20The%20IF%20Statement.pdf)
+- [3.2](https://maryash.github.io/135/slides/3.2%20Comparing%20Numbers%20and%20Strings.pdf)
+- [3.3-4](https://maryash.github.io/135/slides/3.3%20Multiple%20Alternatives%20_%203.4%20Nested%20Branches.pdf)
+- [3.7](https://maryash.github.io/135/slides/3.7%20Boolean%20Variables%20and%20Operators.pdf)
+- [3.8](https://maryash.github.io/135/slides/3.8%20Application_%20Input%20Validation.pdf)
 
 **Class 11**
 - **Midterm Exam 1**
@@ -174,7 +175,7 @@ str = "food"
 **[Schedule code review 1](https://calendly.com/135-code-review/the-first)**
 
 **Class 12**
-- [8.1](https://maryash.github.io/135/slides/8.1%20Reading%20and%20Writing%20Text%20Files.pdf)
+- [5.1-3](https://maryash.github.io/135/slides/5.1%20Functions%20as%20Black%20Boxes%20_%205.2%20Implementing%20Functions%20_%205.3%20Parameter%20Passing.pdf)
 - [5.4-6](https://maryash.github.io/135/slides/5.4%20Return%20Values%20_%205.5%20Functions%20without%20Return%20Values%20_%205.6%20Reusable%20Functions.pdf)
 
 **Project 2**
@@ -186,6 +187,7 @@ str = "food"
 - Demo: Pass by reference vs by value
 
 **Class 14**
+- [8.1](https://maryash.github.io/135/slides/8.1%20Reading%20and%20Writing%20Text%20Files.pdf)
 - [6.2](https://maryash.github.io/135/slides/6.2%20Common%20Array%20Algorithms.pdf)
 - Searching & sorting
 
