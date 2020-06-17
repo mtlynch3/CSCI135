@@ -188,12 +188,15 @@ str = "food"
 
 **Class 14**
 - [8.1](https://maryash.github.io/135/slides/8.1%20Reading%20and%20Writing%20Text%20Files.pdf)
-- [6.2](https://maryash.github.io/135/slides/6.2%20Common%20Array%20Algorithms.pdf)
-- Searching & sorting
 
 **Class 15**
+- [6.2](https://maryash.github.io/135/slides/6.2%20Common%20Array%20Algorithms.pdf)
 - [6.3](https://maryash.github.io/135/slides/6.3%20Arrays%20and%20Functions.pdf)
 - [6.4-5](https://maryash.github.io/135/slides/6.4%20PS%20Adapting%20Algorithms%20_%206.5%20Discovering%20Algorithms.pdf)
+
+**Lecture Activity**
+- Due 6/19 11 AM
+- 
 
 
 ## Week 5 (6/22-6/25)
@@ -203,8 +206,19 @@ str = "food"
 **Class 16**
 - [6.6](https://maryash.github.io/135/slides/6.6%202D%20Arrays.pdf)
 
+**HW 7**
+- Write a function **void sort3(int& a, int& b, int& c)** that swaps its three arguments to arrange them in sorted order.
+- Example: int x = 4; int y = 7; int z = 3; sort3(x,y,z) => x is 3, y is 4, z is 7
+- cout << x << y << z; will print 3 4 7
+
 **Class 17**
 - [6.7](https://maryash.github.io/135/slides/6.7%20Vectors.pdf)
+
+**HW 8**
+- Write a function **bool equals(int a[], int a_size, int b[], int b_size)** that checks whether two arrays have the same elements in the same order.
+- Example: a = {1,2,3} b = {1,2,3} => true
+- Example: a = {4,5,6} b = {4,5} => false
+- Example: a = {90,80,100} b = {1,2,3} => false
 
 **Class 18**
 - [7.1](https://maryash.github.io/135/slides/7.1%20Defining%20and%20Using%20Pointers.pdf)
@@ -212,6 +226,13 @@ str = "food"
 **Class 19**
 - [7.2](https://maryash.github.io/135/slides/7.2%20Arrays%20and%20Pointers.pdf)
 
+**HW 9**
+- Write a program that carries out the following tasks:
+- Open a file named hello.txt
+- Store the message "Hello, World!" in the file
+- Close the file
+- Open the same file again
+- Read the contents of the file into a string variable and print it
 
 ## Week 6 (6/29-7/2)
 
@@ -219,6 +240,10 @@ str = "food"
 
 **Class 20**
 - [7.4](https://maryash.github.io/135/slides/7.4%20Dynamic%20Memory%20Allocation.pdf)
+
+**HW 10**
+- Write a function **void sort2(double* p, double* q)** that receieves two pointers and sorts the values to which they point. If you call sort2(&x, &y) then x <= y after the call.
+- Example: x = 7, y = 2; sort2(&x, &y) => x becomes 2, y becomes 7
 
 **Class 21**
 - [7.5-6](https://maryash.github.io/135/slides/7.5-6%20Arrays%20of%20Pointers%20_%20PS%20Draw%20a%20Picture.pdf)
@@ -257,7 +282,10 @@ str = "food"
 -extra day in case above schedule is too fast
 
 **Class 30**
-- review for exam?
+- extra day
 
 **Class 31**
-- final exam?
+- review for exam
+
+## Final Exam
+Will be on 7/20 during classtime. 
