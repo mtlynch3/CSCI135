@@ -169,6 +169,7 @@ str = "food"
 - **Midterm Exam 1**
 - 6/11 during classtime. Will be uploaded to Gradescope.
 - Topics include everything covered in lecture up to class 10: input/output, arithmetic, strings, arrays, loops
+- [solutions](https://github.com/mtlynch3/CSCI135/tree/master/135_Exam1)
 
 
 ## Week 4 (6/15-6/18)
