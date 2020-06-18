@@ -1,0 +1,24 @@
+Write the following terminal instructions:
+	a) Compile a program called myprog.cpp into an executable file with the default name
+		g++ myprog.cpp
+	b) Run this executable
+		./a.out
+	d) Compile the same program myprog.cpp into an executable file called myprog
+		g++ myprog.cpp -o myprog
+	e) Run the executable myprog
+		./myprog
+	f) Run the exectuable myprog with input redirection from the text file data.txt
+		./myprog < data.txt
+
+What are the valid indices of this array: int counts[6]?
+	0,1,2,3,4,5
+
+Suppose you have the following string:
+	string fruit = "banana";
+How can you use the substr method to print out "nan"?
+	cout << fruit.substr(2,3) << endl;
+
+Assume you have a variable defined as follows:
+  double x = 19.889324;
+Using the manipulators defined in <iomanip>, print out x so that there are only 3 significant digits and 4 whitespaces in front of it.
+  cout << setprecision(3) << setw(8) << x << endl;
