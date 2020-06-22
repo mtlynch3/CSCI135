@@ -244,7 +244,7 @@ str = "food"
 - [7.4](https://maryash.github.io/135/slides/7.4%20Dynamic%20Memory%20Allocation.pdf)
 
 **HW 10**
-- Write a function **void sort2(double&ast; p, double&ast; q)** that receieves two pointers and sorts the values to which they point. If you call sort2(&x, &y) then x <= y after the call.
+- Write a function **void sort2(double&#42;p, double&#42;q)** that receieves two pointers and sorts the values to which they point. If you call sort2(&x, &y) then x <= y after the call.
 - Example: x = 7, y = 2; sort2(&x, &y) => x becomes 2, y becomes 7
 
 **Class 21**
