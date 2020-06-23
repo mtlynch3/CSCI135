@@ -213,7 +213,7 @@ str = "food"
 - cout << x << y << z; will print 3 4 7
 
 **Class 17**
-- Selection sort, binary search demo
+- [Selection sort video](https://www.youtube.com/watch?v=92BfuxHn2XE)
 - [6.3](https://maryash.github.io/135/slides/6.3%20Arrays%20and%20Functions.pdf)
 - [6.4-5](https://maryash.github.io/135/slides/6.4%20PS%20Adapting%20Algorithms%20_%206.5%20Discovering%20Algorithms.pdf)
 
