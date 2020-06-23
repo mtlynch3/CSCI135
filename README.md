@@ -192,8 +192,7 @@ str = "food"
 
 **Class 15**
 - [6.2](https://maryash.github.io/135/slides/6.2%20Common%20Array%20Algorithms.pdf)
-- [6.3](https://maryash.github.io/135/slides/6.3%20Arrays%20and%20Functions.pdf)
-- [6.4-5](https://maryash.github.io/135/slides/6.4%20PS%20Adapting%20Algorithms%20_%206.5%20Discovering%20Algorithms.pdf)
+
 
 **Lecture Activity**
 - Due 6/19 11 AM
@@ -206,7 +205,7 @@ str = "food"
 **[Schedule code review 2](https://calendly.com/135-code-review/the-second)**
 
 **Class 16**
-- [6.6](https://maryash.github.io/135/slides/6.6%202D%20Arrays.pdf)
+- Array algorithms continued
 
 **HW 7**
 - Write a function **void sort3(int& a, int& b, int& c)** that swaps its three arguments to arrange them in sorted order.
@@ -214,7 +213,9 @@ str = "food"
 - cout << x << y << z; will print 3 4 7
 
 **Class 17**
-- [6.7](https://maryash.github.io/135/slides/6.7%20Vectors.pdf)
+- Selection sort, binary search demo
+- [6.3](https://maryash.github.io/135/slides/6.3%20Arrays%20and%20Functions.pdf)
+- [6.4-5](https://maryash.github.io/135/slides/6.4%20PS%20Adapting%20Algorithms%20_%206.5%20Discovering%20Algorithms.pdf)
 
 **HW 8**
 - Write a function **bool equals(int a[], int a_size, int b[], int b_size)** that checks whether two arrays have the same elements in the same order.
@@ -223,10 +224,11 @@ str = "food"
 - Example: a = {90,80,100} b = {1,2,3} => false
 
 **Class 18**
-- [7.1](https://maryash.github.io/135/slides/7.1%20Defining%20and%20Using%20Pointers.pdf)
+- [6.6](https://maryash.github.io/135/slides/6.6%202D%20Arrays.pdf)
+
 
 **Class 19**
-- [7.2](https://maryash.github.io/135/slides/7.2%20Arrays%20and%20Pointers.pdf)
+- [6.7](https://maryash.github.io/135/slides/6.7%20Vectors.pdf)
 
 **HW 9**
 - Write a program that carries out the following tasks:
@@ -241,10 +243,12 @@ str = "food"
 **[Schedule code review 2](https://calendly.com/135-code-review/the-second)**
 
 **Class 20**
+- [7.1](https://maryash.github.io/135/slides/7.1%20Defining%20and%20Using%20Pointers.pdf)
+- [7.2](https://maryash.github.io/135/slides/7.2%20Arrays%20and%20Pointers.pdf)
 - [7.4](https://maryash.github.io/135/slides/7.4%20Dynamic%20Memory%20Allocation.pdf)
 
 **HW 10**
-- Write a function **void sort2(double&#42;p, double&#42;q)** that receieves two pointers and sorts the values to which they point. If you call sort2(&x, &y) then x <= y after the call.
+- Write a function **void sort2(double&#42; p, double&#42; q)** that receieves two pointers and sorts the values to which they point. If you call sort2(&x, &y) then x <= y after the call.
 - Example: x = 7, y = 2; sort2(&x, &y) => x becomes 2, y becomes 7
 
 **Class 21**
