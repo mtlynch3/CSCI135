@@ -244,19 +244,19 @@ str = "food"
 
 **Class 20**
 - [7.1](https://maryash.github.io/135/slides/7.1%20Defining%20and%20Using%20Pointers.pdf)
-- [7.2](https://maryash.github.io/135/slides/7.2%20Arrays%20and%20Pointers.pdf)
-- [7.4](https://maryash.github.io/135/slides/7.4%20Dynamic%20Memory%20Allocation.pdf)
+
 
 **HW 10**
 - Write a function **void sort2(double&#42; p, double&#42; q)** that receieves two pointers and sorts the values to which they point. If you call sort2(&x, &y) then x <= y after the call.
 - Example: x = 7, y = 2; sort2(&x, &y) => x becomes 2, y becomes 7
 
 **Class 21**
-- [7.5-6](https://maryash.github.io/135/slides/7.5-6%20Arrays%20of%20Pointers%20_%20PS%20Draw%20a%20Picture.pdf)
+- [7.2](https://maryash.github.io/135/slides/7.2%20Arrays%20and%20Pointers.pdf)
+- [7.4](https://maryash.github.io/135/slides/7.4%20Dynamic%20Memory%20Allocation.pdf)
+
 
 **Class 22**
-- [7.7-8](https://maryash.github.io/135/slides/7.7-8%20Classes%20of%20Objects%20_%20Pointers%20and%20Objects.pdf)
-- [Enums](https://maryash.github.io/135/slides/Enums.pdf)
+- Review for exam
 
 **Class 23**
 - **Midterm Exam 2**
@@ -264,6 +264,9 @@ str = "food"
 ## Week 7 (7/6-7/9)
 
 **Class 24**
+- [7.5-6](https://maryash.github.io/135/slides/7.5-6%20Arrays%20of%20Pointers%20_%20PS%20Draw%20a%20Picture.pdf)
+- [7.7-8](https://maryash.github.io/135/slides/7.7-8%20Classes%20of%20Objects%20_%20Pointers%20and%20Objects.pdf)
+- [Enums](https://maryash.github.io/135/slides/Enums.pdf)
 - [9.1-2](https://maryash.github.io/135/slides/9.1-2%20Object%20Oriented%20Programming%20_%20Implementing%20a%20Simple%20Class.pdf)
 
 **Class 25**
