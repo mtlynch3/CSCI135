@@ -267,20 +267,22 @@ str = "food"
 - [7.5-6](https://maryash.github.io/135/slides/7.5-6%20Arrays%20of%20Pointers%20_%20PS%20Draw%20a%20Picture.pdf)
 - [7.7-8](https://maryash.github.io/135/slides/7.7-8%20Classes%20of%20Objects%20_%20Pointers%20and%20Objects.pdf)
 - [Enums](https://maryash.github.io/135/slides/Enums.pdf)
-- [9.1-2](https://maryash.github.io/135/slides/9.1-2%20Object%20Oriented%20Programming%20_%20Implementing%20a%20Simple%20Class.pdf)
 
 **Class 25**
-- [9.3-5](https://maryash.github.io/135/slides/9.3-5%20Specifying%20the%20Public%20Interface%20_%20Designing%20the%20Data%20Representation%20_%20Member%20Functions.pdf)
+- [9.1-2](https://maryash.github.io/135/slides/9.1-2%20Object%20Oriented%20Programming%20_%20Implementing%20a%20Simple%20Class.pdf)
+
 
 **Class 26**
-- [9.6](https://maryash.github.io/135/slides/9.6%20Constructors.pdf)
-- [9.9](https://maryash.github.io/135/slides/9.9%20Separate%20Compilation.pdf)
+- [9.3-5](https://maryash.github.io/135/slides/9.3-5%20Specifying%20the%20Public%20Interface%20_%20Designing%20the%20Data%20Representation%20_%20Member%20Functions.pdf)
+
+
 
 **HW 11**
 - Define a structure Point. A Point has an x-coordinate value and a y-coordinate value. Write a function **double distance(Point a, Point b)** that computes the distance from a to b. Write a program that reads the coordinates of the points, calls your function, and displays the result.  
 
 **Class 27**
-- [9.10-11](https://maryash.github.io/135/slides/9.10-11%20Pointers%20to%20Objects%20_%20PS%20Patterns%20for%20Object%20Data.pdf)
+- [9.6](https://maryash.github.io/135/slides/9.6%20Constructors.pdf)
+
 
 **HW 12**
 - Define a structure Triangle that contains three Point members. Write a function, , that computes the perimeter of a Triangle. Write a program that reads the coordinates of the points, calls your function, and displays the result. 
@@ -289,21 +291,21 @@ str = "food"
 ## Week 8 (7/13-7/16)
 
 **Class 28**
-- [Static variables](https://maryash.github.io/135/slides/Static%20Variables.pdf)
-- [Static member variables](https://maryash.github.io/135/slides/Static%20Member%20Variables.pdf)
+- [9.9](https://maryash.github.io/135/slides/9.9%20Separate%20Compilation.pdf)
 
 **HW 13**
 - Implement a class Rectangle. Provide a constructor to construct a rectangle with a given width and height, member functions float get_perimeter() and float get_area() that compute the perimeter and area, and a member function void resize(double factor) that resizes the rectangle by multiplying the width and the height by the given float factor.
 
 **Class 29**
--extra day in case above schedule is too fast
+- [9.10-11](https://maryash.github.io/135/slides/9.10-11%20Pointers%20to%20Objects%20_%20PS%20Patterns%20for%20Object%20Data.pdf)
 
 **HW 14**
 - Write a function **vector&lt;int&gt; merge_sorted(vector&lt;int&gt; a, vector&lt;int&gt; b)** that merges two sorted vectors, producing a new sorted vector. Keep an index into each vector, indicating how much of it has been processed already. Each time, append the smallest unprocessed element from either vector, then advance the index. 
 - Example: if a is \[1,4,9,16] and b is \[4,7,9,9,11] then merged_sorted returns the vector \[1,4,4,7,9,9,9,11,16]
 
 **Class 30**
-- extra day
+- [Static variables](https://maryash.github.io/135/slides/Static%20Variables.pdf)
+- [Static member variables](https://maryash.github.io/135/slides/Static%20Member%20Variables.pdf)
 
 **Class 31**
 - review for exam
