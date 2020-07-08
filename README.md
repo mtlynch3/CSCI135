@@ -260,32 +260,32 @@ str = "food"
 
 **Class 23**
 - **Midterm Exam 2**
+- [Solutions](https://github.com/mtlynch3/CSCI135/tree/master/Exam2)
 
 ## Week 7 (7/6-7/9)
 
 **Class 24**
 - [7.5-6](https://maryash.github.io/135/slides/7.5-6%20Arrays%20of%20Pointers%20_%20PS%20Draw%20a%20Picture.pdf)
+
+
+**Class 25**
 - [7.7-8](https://maryash.github.io/135/slides/7.7-8%20Classes%20of%20Objects%20_%20Pointers%20and%20Objects.pdf)
 - [Enums](https://maryash.github.io/135/slides/Enums.pdf)
 
-**Class 25**
-- [9.1-2](https://maryash.github.io/135/slides/9.1-2%20Object%20Oriented%20Programming%20_%20Implementing%20a%20Simple%20Class.pdf)
-
 
 **Class 26**
+- [9.1-2](https://maryash.github.io/135/slides/9.1-2%20Object%20Oriented%20Programming%20_%20Implementing%20a%20Simple%20Class.pdf)
 - [9.3-5](https://maryash.github.io/135/slides/9.3-5%20Specifying%20the%20Public%20Interface%20_%20Designing%20the%20Data%20Representation%20_%20Member%20Functions.pdf)
 
-
-
 **HW 11**
-- Define a structure Point. A Point has an x-coordinate value and a y-coordinate value. Write a function **double distance(Point a, Point b)** that computes the distance from a to b. Write a program that reads the coordinates of the points, calls your function, and displays the result.  
+- Define a class Point. A Point has an x-coordinate value and a y-coordinate value. Write a function **double distance(Point a, Point b)** that computes the distance from a to b. Write a program that reads the coordinates of the points, calls your function, and displays the result.  
 
 **Class 27**
 - [9.6](https://maryash.github.io/135/slides/9.6%20Constructors.pdf)
 
 
 **HW 12**
-- Define a structure Triangle that contains three Point members. Write a function, , that computes the perimeter of a Triangle. Write a program that reads the coordinates of the points, calls your function, and displays the result. 
+- Define a class Triangle that contains three Point members. Write a function that computes the perimeter of a Triangle. Write a program that reads the coordinates of the points, calls your function, and displays the result. 
 
 
 ## Week 8 (7/13-7/16)
