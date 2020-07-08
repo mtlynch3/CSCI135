@@ -1,0 +1,62 @@
+Short answer 
+
+What kind of values do pointers hold?
+	memory addresses 
+
+What symbol is used for the the address-of operator?
+	&
+
+What symbol is used for the dereference operator?
+	*
+
+Assume we have string x = "Hello, World!";
+Initialize a pointer p so that it contains the address of x:
+	string* p = &x;
+
+Consider the following code:
+
+	int a = 4;
+	int b = 6;
+	int c = 9;
+	int* p = &a;
+	int* q = p;
+	p = &b;
+	a++;
+	(*q)++;
+	b = *q * 2;
+	c = *q + *p;
+
+What are the final values of a,b,c,p and q? 
+a = 6, b = 12, c = 18, p = address of b, q = address of a
+
+Consider the following code:
+	char c = '+';
+	int* p = &c;
+Will this cause an error? Why or why not?
+Yes it will cause an error because we are trying to store the address of a character in an integer pointer (incompatible types)
+
+Q: What is the difference between a reference parameter and a value parameter? 
+A: When a reference parameter is used, only a variable's memory address is passed into the function. When a value parameter is used, the variable that's passed into the function's value is *copied* into a local variable.
+
+Q: When should we use the const keyword with a reference parameter and why?
+A: When we want to have a variable that is read-only (cannot be modified), but we want the efficiency of using a reference parameter.
+
+True or False:
+
+An array can be passed as a value parameter.
+	False
+
+A vector can be passed as a value parameter.
+	True
+
+Dynamically allocate a double variable, set its value to 2.5, and then delete it.
+	double* dub = new double;
+	*dub = 2.5;
+	delete dub;
+
+Dynamically allocate an integer array, fill it with values: 1,2,3, and then delete it.
+	int* arr = new int[3];
+	for(int i = 0; i < 3; i++){
+		arr[i] = i + 1;
+	}
+	delete[] arr;
