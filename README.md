@@ -285,7 +285,7 @@ str = "food"
 
 
 **HW 12**
-- Define a class Triangle that contains three Point members. Write a function that computes the perimeter of a Triangle. Write a program that reads the coordinates of the points, calls your function, and displays the result. 
+- Define a class Triangle that contains three Point members. Write a function **double perimeter(Triangle t)** that computes the perimeter of a Triangle. Write a program that reads the coordinates of the points, calls your function, and displays the result. 
 
 
 ## Week 8 (7/13-7/16)
