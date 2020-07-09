@@ -291,13 +291,14 @@ str = "food"
 ## Week 8 (7/13-7/16)
 
 **Class 28**
-- [9.9](https://maryash.github.io/135/slides/9.9%20Separate%20Compilation.pdf)
+- [9.10-11](https://maryash.github.io/135/slides/9.10-11%20Pointers%20to%20Objects%20_%20PS%20Patterns%20for%20Object%20Data.pdf)
+
 
 **HW 13**
 - Implement a class Rectangle. Provide a constructor to construct a rectangle with a given width and height, member functions float get_perimeter() and float get_area() that compute the perimeter and area, and a member function void resize(double factor) that resizes the rectangle by multiplying the width and the height by the given float factor.
 
 **Class 29**
-- [9.10-11](https://maryash.github.io/135/slides/9.10-11%20Pointers%20to%20Objects%20_%20PS%20Patterns%20for%20Object%20Data.pdf)
+- [9.9](https://maryash.github.io/135/slides/9.9%20Separate%20Compilation.pdf)
 
 **HW 14**
 - Write a function **vector&lt;int&gt; merge_sorted(vector&lt;int&gt; a, vector&lt;int&gt; b)** that merges two sorted vectors, producing a new sorted vector. Keep an index into each vector, indicating how much of it has been processed already. Each time, append the smallest unprocessed element from either vector, then advance the index. 
@@ -308,7 +309,7 @@ str = "food"
 - [Static member variables](https://maryash.github.io/135/slides/Static%20Member%20Variables.pdf)
 
 **Class 31**
-- review for exam
+- Review for exam
 
 ## Final Exam
 Will be on 7/20 during classtime. 
