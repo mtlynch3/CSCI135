@@ -299,14 +299,16 @@ str = "food"
 
 **Class 29**
 - [9.9](https://maryash.github.io/135/slides/9.9%20Separate%20Compilation.pdf)
+- [Static variables](https://maryash.github.io/135/slides/Static%20Variables.pdf)
+- [Static member variables](https://maryash.github.io/135/slides/Static%20Member%20Variables.pdf)
+- Go over Project 2 Part C and Part D
 
 **HW 14**
 - Write a function **vector&lt;int&gt; merge_sorted(vector&lt;int&gt; a, vector&lt;int&gt; b)** that merges two sorted vectors, producing a new sorted vector. Keep an index into each vector, indicating how much of it has been processed already. Each time, append the smallest unprocessed element from either vector, then advance the index. 
 - Example: if a is \[1,4,9,16] and b is \[4,7,9,9,11] then merged_sorted returns the vector \[1,4,4,7,9,9,9,11,16]
 
 **Class 30**
-- [Static variables](https://maryash.github.io/135/slides/Static%20Variables.pdf)
-- [Static member variables](https://maryash.github.io/135/slides/Static%20Member%20Variables.pdf)
+- Review for exam
 
 **Class 31**
 - Review for exam
