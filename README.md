@@ -314,4 +314,6 @@ str = "food"
 - Review for exam
 
 ## Final Exam
-Will be on 7/20 during classtime. 
+- Will be on 7/20 during classtime. 
+- [Solutions to Final Exam](https://github.com/mtlynch3/CSCI135/tree/master/final)
+
